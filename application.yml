@@ -15,6 +15,6 @@ lavalink:
       local: false
     youtubeSearchEnabled: true
     spotify:
-      clientId: "YOUR_SPOTIFY_CLIENT_ID"
-      clientSecret: "YOUR_SPOTIFY_CLIENT_SECRET"
+      clientId: "aa5706fb4367451aa52c63bb95f9e4d6"
+      clientSecret: "c056dcb5cfc14f1aa7682cd393f9833b"
       countryCode: "US"
