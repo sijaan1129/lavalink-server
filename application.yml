@@ -1,0 +1,20 @@
+server:
+  port: 2333
+  address: 0.0.0.0
+
+lavalink:
+  server:
+    password: "aimbot1129"
+    sources:
+      youtube: true
+      soundcloud: true
+      twitch: true
+      vimeo: true
+      bandcamp: true
+      http: true
+      local: false
+    youtubeSearchEnabled: true
+    spotify:
+      clientId: "YOUR_SPOTIFY_CLIENT_ID"
+      clientSecret: "YOUR_SPOTIFY_CLIENT_SECRET"
+      countryCode: "US"
